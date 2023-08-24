@@ -1,8 +1,11 @@
-#include<iostream>
-using namespace std; 
+#include<iostream.h>
+#include<conio.h> 
 int main()
 {
     int a[10],i,n;
+    clrscr();
+    
+    printf<<"220130318021";
     
     printf("Enter size of the array ::");
     scanf("%d", &n);
@@ -22,5 +25,5 @@ int main()
             printf("%d\t",a[i]);
         }
     }
-    return 0;
+    getch();
 }
