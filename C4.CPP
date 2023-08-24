@@ -4,6 +4,8 @@ int main()
 {
 	int a,i;
 
+	cout<<"220130318021";
+
 	cout<<"Enter the number ::";
 	cin>>a;
 
