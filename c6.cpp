@@ -2,6 +2,8 @@
 using namespace std;
 int main() 
 {    
+    cout<<"220130318021";
+    
     cout << "Size of char: " << sizeof(char) << " byte" << endl;
     cout << "Size of int: " << sizeof(int) << " bytes" << endl;
     cout << "Size of float: " << sizeof(float) << " bytes" << endl;
