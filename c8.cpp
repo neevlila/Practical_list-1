@@ -3,6 +3,8 @@ using namespace std;
 main()
 {
 	int p,r,t,ci;
+
+	cout<<"220130318021";
 	
 	cout<<"Enter the amount : ";
 	cin>>p;
