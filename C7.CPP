@@ -4,6 +4,8 @@ int main()
 {
 	int p,r,t,si;
 
+	cout<<"220130318021";
+
 	cout<<"Enter principle amount ::";
 	cin>>p;
 
