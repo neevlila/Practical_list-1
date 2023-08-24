@@ -1,9 +1,9 @@
-#include<iostream.h>
-#include<conio.h>
+#include<iostream>
 int main()
 {
 	int a,b,temp;
-	clrscr();
+
+	cout<<"220130318021";
 
 	cout<<"Enter the number one ::";
 	cin>>a;
@@ -17,5 +17,5 @@ int main()
 	cout<<a<<endl;
 	cout<<b<<endl;
 
-	getch();
+	return 0;
 }
