@@ -1,10 +1,11 @@
-#include<iostream.h>
-#include<conio.h>
-void main()
+#include<iostream>
+using namespace std;
+int main()
 {
 	int n,num,digit,rev=0;
-	clrscr();
 	
+	cout<<"220130318021";
+
 	cout<<"Enter a positive number ::";
 	cin>>num;
 
@@ -26,5 +27,5 @@ void main()
 	{
 		cout<<"The number is a not palindrome ";
 	}
-	getch();
+	return 0;
 }
