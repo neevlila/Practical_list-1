@@ -5,7 +5,7 @@ void main()
 	int r,area,cir,dia;
 	clrscr();
 
-	printf<<"220130318021";
+	cout<<"220130318021";
 
 	cout<<"Enter the radius :: ";
 	cin>>r;
