@@ -18,6 +18,7 @@ int main()
 		cout<<"This number is 1 maximum"<<endl;
 	}
 	else
+        {
 		if(no2>no3)
 		{
 			cout<<"This number is 2 maximum"<<endl;
@@ -26,5 +27,6 @@ int main()
 		{
 			cout<<"This number is 3 maximum"<<endl;
 		}
+        }
 	return 0;
 }
