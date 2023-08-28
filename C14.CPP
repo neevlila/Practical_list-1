@@ -17,8 +17,9 @@ int main()
 	}
 
 	while(num!=0);
-	cout<<"the reverse of the number is ::"<<rev<<endl;
-
+        {
+	        cout<<"the reverse of the number is ::"<<rev<<endl;
+        }
 	if(n==rev)
 	{
 		cout<<"The number is a palindrome ::";
