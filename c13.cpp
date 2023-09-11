@@ -2,6 +2,9 @@
 using namespace std;
 int main()
 {
+
+	cout << "220130318021";
+	
 	int n,sum=0;
 	
 	cout << "Enter the natural number ::";
