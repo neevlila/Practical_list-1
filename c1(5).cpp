@@ -1,11 +1,9 @@
 #include<iostream.h>
 #include<conio.h> 
-int main()
+void main()
 {
     int a[10],i,n;
     clrscr();
-    
-    printf<<"220130318021";
     
     printf("Enter size of the array ::");
     scanf("%d", &n);
@@ -25,5 +23,9 @@ int main()
             printf("%d\t",a[i]);
         }
     }
+    
+	cout<<"Name: Neev Lila"<<endl;
+	cout<<"Enrollment no.220130318021";
+	
     getch();
 }
