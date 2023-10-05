@@ -5,7 +5,7 @@ int main()
 	int l,b;
 
 	cout<<"Name: Neev Lila"<<endl;
-	cout<<"Enrollment no.220130318021"<<endl
+	cout<<"Enrollment no.220130318021"<<endl;
 
 	cout<<"Enter the value of l :: ";
 	cin>>l;
