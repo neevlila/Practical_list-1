@@ -4,7 +4,7 @@ int main()
 	int a,b,temp;
 
 	cout<<"Name: Neev Lila"<<endl;
-	cout<<"220130318021"<<endl;
+	cout<<"Enrollment no.220130318021"<<endl
 
 	cout<<"Enter the number one ::";
 	cin>>a;
