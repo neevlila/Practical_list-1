@@ -4,7 +4,8 @@ int main()
 {
 	int a,b;
 
-	cout<<"220130318021";
+	cout<<"Name: Neev Lila"<<endl;
+	cout<<"220130318021"<<endl;
 	
 	cout << "Enter the number one ::";
 	cin >> a;
