@@ -5,7 +5,7 @@ void main()
 	int r,area,cir,dia;
 
 	cout<<"Name: Neev Lila"<<endl;
-	cout<<"Enrollment no.220130318021"<<endl
+	cout<<"Enrollment no.220130318021"<<endl;
 
 	cout<<"Enter the radius :: ";
 	cin>>r;
