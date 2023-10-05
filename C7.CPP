@@ -5,7 +5,7 @@ int main()
 	int p,r,t,si;
 
 	cout<<"Name: Neev Lila"<<endl;
-	cout<<"220130318021"<<endl;
+	cout<<"Enrollment no.220130318021"<<endl;
 
 	cout<<"Enter principle amount ::";
 	cin>>p;
