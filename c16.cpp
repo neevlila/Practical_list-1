@@ -3,8 +3,8 @@ using namespace std;
 int arm(int );
 int main()
 {
-
-	cout << "220130318021";
+	cout<<"Name: Neev Lila"<<endl;
+	cout<<"Enrollment no.220130318021";
 	
 	int n;
 	cout<<"Enter the number : ";
