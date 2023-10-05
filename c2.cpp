@@ -20,7 +20,8 @@ int main()
 	cin>>f;
 	cout<<"Temprature in celsius = "<<t.conversion(f);
 
-	cout << "220130318021";
+	cout<<"Name: Neev Lila"<<endl;
+	cout<<"Enrollment no.220130318021";
 	
 	return 0;
 }
