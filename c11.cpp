@@ -4,7 +4,7 @@ int main()
 {
 
 	cout<<"Name: Neev Lila"<<endl;
-	cout<<"Enrollment no.220130318021";
+	cout<<"Enrollment no.220130318021"<<endl;
 	
     	char c;
     	int lowercase_vowel, uppercase_vowel;
