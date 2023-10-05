@@ -2,7 +2,9 @@
 using namespace std;
 int main() 
 {    
-    cout<<"220130318021";
+	cout<<"Name: Neev Lila"<<endl;
+	cout<<"Enrollment no.220130318021"<<endl;
+
     
     cout << "Size of char: " << sizeof(char) << " byte" << endl;
     cout << "Size of int: " << sizeof(int) << " bytes" << endl;
