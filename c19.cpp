@@ -3,7 +3,8 @@ using namespace std;
 int main()
 {
 
-	cout << "220130318021";
+	cout<<"Name: Neev Lila"<<endl;
+	cout<<"Enrollment no.220130318021"<<endl;
 	
 	int a,b,opr;
 	cin>>a;
