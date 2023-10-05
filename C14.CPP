@@ -3,8 +3,9 @@ using namespace std;
 int main()
 {
 	int n,num,digit,rev=0;
-	
-	cout<<"220130318021";
+
+	cout<<"Name: Neev Lila"<<endl;
+	cout<<"220130318021"<<endl;
 
 	cout<<"Enter a positive number ::";
 	cin>>num;
