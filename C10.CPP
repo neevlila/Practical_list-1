@@ -5,7 +5,7 @@ int main()
 	int no1,no2,no3;
 
 	cout<<"Name: Neev Lila"<<endl;
-	cout<<"Enrollment no.220130318021"<<endl
+	cout<<"Enrollment no.220130318021"<<endl;
 
 	cout<<"Enter the 1 number::";
 	cin>>no1;
