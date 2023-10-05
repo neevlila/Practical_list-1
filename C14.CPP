@@ -5,7 +5,7 @@ int main()
 	int n,num,digit,rev=0;
 
 	cout<<"Name: Neev Lila"<<endl;
-	cout<<"Enrollment no.220130318021"<<endl
+	cout<<"Enrollment no.220130318021"<<endl;
 
 	cout<<"Enter a positive number ::";
 	cin>>num;
